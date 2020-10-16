@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602806007 source:/home/cesar/Clang/Estudos/main.c
+	<stdio.h>
+	<stdlib.h>
+
